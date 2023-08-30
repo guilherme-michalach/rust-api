@@ -1,2 +1,5 @@
 # rust-api
-API to practice the Rust language 
+
+Web server to practice the Rust language according to rust-lang.org doc
+
+In Progress
